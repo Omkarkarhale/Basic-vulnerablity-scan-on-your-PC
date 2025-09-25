@@ -16,7 +16,7 @@ To develop an introductory understanding of vulnerability assessments and identi
 1. **Installed Nessus Essentials**
    - Downloaded the installer from the Tenable website.
    - Set up the Nessus environment and completed activation using the free license.
-<img width="960" height="540" alt="Screenshot 2025-09-25 094141" src="https://github.com/user-attachments/assets/c802f06d-82f5-4432-b4fc-480e30d71155" />
+<img width="1440" alt="Screenshot 2025-05-29 at 12 57 21" src="https://github.com/user-attachments/assets/738df96f-f658-452b-8088-4d44acac504e" />
 
 
 2. **Configured the Local Machine as Scan Target**
